@@ -55,7 +55,7 @@ def rpsls(player_choice):
             print "Player wins!"
     print       
             
-# test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
+# test code
 rpsls("rock")
 rpsls("Spock")
 rpsls("paper")
